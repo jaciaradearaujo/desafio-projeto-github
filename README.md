@@ -1,5 +1,5 @@
-# desafio-projeto-inicial-github-git
-repositório com links úteis e estrutura básica html5
+# projeto-inicial-desafio-github-git
+Repositório com links úteis e estrutura básica html5
 [Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
 [Sintaxe basica html5](https://www.devmedia.com.br/o-que-e-o-html5/25820)
 [Sintaxe basica html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
