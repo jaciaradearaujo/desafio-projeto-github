@@ -7,6 +7,7 @@ Repositório com links úteis e estrutura básica html5
 [Sintaxe basica JavaScripit](https://www.javascript.com/resources)
 [Sintaxe basica react](https://pt-br.reactjs.org/)
 [Sintaxe basica jest](https://jestjs.io/pt-BR/)
+[Sintese basica Mudar branch Master para Main](https://alismed.github.io/blog/2020/07/27/mudar-master-main)
 
 Estrutura básica do HTML5:
 <!DOCTYPE HTML>
